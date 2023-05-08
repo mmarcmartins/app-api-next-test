@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "name": "S100RR 2023",
+    "image": "/bmw.jpg"
+  },
+  {
+    "id": "2",
+    "name": "MT07",
+    "image": "/yamaha.jpeg"
+  },
+  {
+    "id": "3",
+    "name": "Hypermotard ducati",
+    "image": "/ducati.jpeg"
+  }
+]
